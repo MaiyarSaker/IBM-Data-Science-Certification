@@ -26,4 +26,4 @@ The goal of this repository is to centralize all my IBM certification projects a
 
 ---
 
-📌 *Certification: IBM Data Science Professional Certificate (Coursera)*
+*Certification: IBM Data Science Professional Certificate (Coursera)*
